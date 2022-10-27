@@ -1,3 +1,3 @@
-# Solutions for part 4 exercises
+# Solutions for part 5 exercises
 
-In this part, we will continue our work on the backend. Our first major theme will be writing unit and integration tests for the backend. After we have covered testing, we will take a look at implementing user authentication and authorization.
+In this part we return to the frontend, first looking at different possibilities for testing the React code. We will also implement token based authentication which will enable users to log in to our application.
