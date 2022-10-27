@@ -1,3 +1,3 @@
-# Solutions for part 5 exercises
+# Solutions for part 6 exercises
 
-In this part we return to the frontend, first looking at different possibilities for testing the React code. We will also implement token based authentication which will enable users to log in to our application.
+So far, we have placed the application's state and state logic directly inside React-components. When applications grow larger, state management should be moved outside React-components. In this part, we will introduce the Redux-library, which is currently the most popular solution for managing the state of React-applications.
